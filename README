@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4667
+
+Monokai colorscheme, originally ported to vim by Damien Gombault.
+
+The original files lives here: http://desintegr.googlecode.com/svn/config/vim/colors/monokai.vim, although it hasn't been updated since 2009.
+
+The repos on Github (https://github.com/lsdr/monokai) and on vim.org serves only to allow monokai.vim to be found and installed using modern plugin managers for vim.
